@@ -19,7 +19,7 @@
 *  技术博客：http://www.samuelnotes.cn
 *  Github：https://github.com/samuelhehe
 *  期望职务：Android开发工程师
-*  期望薪资：税前月薪18k~25k,特别喜欢的公司可例外
+*  期望薪资：税前月薪15k~20k,特别喜欢的公司可例外
 *  期望城市：北京
 
 ## 工作经历
