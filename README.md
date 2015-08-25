@@ -18,9 +18,27 @@
 *  工作年限：2.5年
 *  技术博客：http://www.samuelnotes.cn
 *  Github：https://github.com/samuelhehe
-*  期望职务：Android开发工程师
-*  期望薪资：税前月薪15k~20k,特别喜欢的公司可例外
+*  期望职务：高级Android开发工程师，公司注重员工的职业成长
+*  期望薪资：税前月薪18~25k,特别喜欢的公司可例外
 *  期望城市：北京
+*  
+
+## 技能清单
+
+### 使用的技能清单
+
+* 熟练使用Java语言进行Android各项开发, 熟练使用Eclipse进行Android开发。
+* 熟练使用Android数据的各种持久化操作，文件，数据库，网络等操作。
+* 熟悉使用多线程并发操作，熟悉C ， C++ ，JNI 编程。
+* 能够进行Android 的整体架构设计，性能优化，同事问题解决工作。
+* 能够进行常用机型的屏幕适配问题，兼容问题解决。
+* 熟练使用Java 开发语言，熟悉 C， C++ ， C#， 了解 OC ，swift， go  语言
+* Java Web相关： 曾使用Java进行SSH进行接口开发，Activiti-Rest 接口开发。
+* 数据库相关：熟悉常用数据库Sqlite , MySQL ， Oracle , Sqlserver  的操作。 
+* 学习和研究新技术以满足产品的需求，并积极在团队中组织分享;
+* 理解数据结构，算法设计，面向对象程序设计思想以及软件工程理论；
+* 具有较好的需求分析能力、文档编写能力。
+
 
 ## 工作经历
 
@@ -36,8 +54,7 @@
 #### 二、富士康AppMarket1.0 (2013.10 - 2014-5)
 
 
-  我在此项目中负责Android客户端 AppMarket1.0的开发工作。App：<a href="http://app.foxconn.com/appmarket_user/download.jsp">AppMarket</a> Web：<a href="http://app.foxconn.com/">AppCenter</a>
-  
+  我在此项目中负责Android客户端 AppMarket1.0的开发工作。
   由于项目组设计人员出差，沟通不便，经过领导的同意，整个App由我设计，整体风格是按照小米app 1.0版本的UI样式来的。App中引用了FCM jar 作为推送消息中心的模块。
   
   整个项目从无到有，尝试添加了常用的文件下载，网络请求缓存，图片缓存，ListView的优化，分页下拉刷新，安装动态更新发送广播，修改后的xmpp  Android版的消息推送，以及各种组件的灵活运用。
@@ -94,17 +111,6 @@
  
  设备点检应用已经上线一个月， 目前没有什么异常情况。 
 
-
-## 技能清单
-
-### 使用的技能清单
-
-* 熟练使用Java 开发语言，熟悉 C， C++ ， C#， 了解 OC ，swift， go  语言
-* 熟练使用Java语言进行Android各项开发 ， 熟悉C ， C++ ，JNI 编程。
-* Java Web相关： 曾使用Java进行SSH进行接口开发，Activiti-Rest 接口开发。
-* 数据库相关：熟悉常用数据库Sqlite , MySQL ， Oracle , Sqlserver  的操作。 
-* 理解数据结构，算法设计，面向对象程序设计思想以及软件工程理论；
-* 具有较好的需求分析能力、文档编写能力。
 
 ##  跨职能合作与推动 
 
